@@ -409,6 +409,7 @@ header {
     border-radius: 4px;
     background-color: #F5F4FA;
     font-weight: 500;
+    border: 0px;
 }
 
 .portfolio-list {
