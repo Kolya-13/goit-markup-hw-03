@@ -493,7 +493,8 @@ header {
 }
 
 .portfolio-img {
-    cursor: pointer
+    cursor: pointer;
+    --grid-item: 3 3 3;
 }
 
 .link-card {
